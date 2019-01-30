@@ -1,0 +1,13 @@
+
+/*
+  Import the common theme.
+*/
+@import "./_shared/scss/theme.scss";
+
+figure img{
+	width: 500px;
+	height: 500px;
+	object-fit: cover; 
+	
+}
+
